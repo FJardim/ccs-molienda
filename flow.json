@@ -1,1 +1,1984 @@
-[]
+[
+    {
+        "id": "aca571a832025b5e",
+        "type": "tab",
+        "label": "Principal",
+        "disabled": false,
+        "info": "",
+        "env": []
+    },
+    {
+        "id": "deec66c67992cc9f",
+        "type": "tab",
+        "label": "MOLIENDA",
+        "disabled": false,
+        "info": "",
+        "env": []
+    },
+    {
+        "id": "8b1536fe0dca853c",
+        "type": "tab",
+        "label": "Molino1",
+        "disabled": false,
+        "info": "",
+        "env": []
+    },
+    {
+        "id": "7f5ed74f23e8b6d7",
+        "type": "tab",
+        "label": "MOTOR",
+        "disabled": false,
+        "info": "",
+        "env": []
+    },
+    {
+        "id": "7ae35b81f4fa655e",
+        "type": "ui_tab",
+        "name": "MOLIENDA SECUNDARIA",
+        "icon": "dashboard",
+        "order": 1,
+        "disabled": false,
+        "hidden": false
+    },
+    {
+        "id": "b6e26ec72ea221d4",
+        "type": "ui_group",
+        "name": "CCM MOLIENDA SECUNDARIA",
+        "tab": "7ae35b81f4fa655e",
+        "order": 1,
+        "disp": true,
+        "width": "12",
+        "collapse": false,
+        "className": ""
+    },
+    {
+        "id": "5797582a27633caf",
+        "type": "ui_group",
+        "name": "CCM MOLIENDA SECUNDARIA",
+        "tab": "e2d5bdea735ae9d2",
+        "order": 2,
+        "disp": true,
+        "width": 12,
+        "collapse": false,
+        "className": ""
+    },
+    {
+        "id": "e2d5bdea735ae9d2",
+        "type": "ui_tab",
+        "name": "MOLIENDA",
+        "icon": "dashboard",
+        "order": 2,
+        "disabled": false,
+        "hidden": false
+    },
+    {
+        "id": "97b2599d56d00be7",
+        "type": "ui_spacer",
+        "z": "deec66c67992cc9f",
+        "name": "spacer",
+        "group": "b6e26ec72ea221d4",
+        "order": 1,
+        "width": 3,
+        "height": 1
+    },
+    {
+        "id": "ecdf99f975575673",
+        "type": "ui_spacer",
+        "z": "deec66c67992cc9f",
+        "name": "spacer",
+        "group": "b6e26ec72ea221d4",
+        "order": 4,
+        "width": 3,
+        "height": 1
+    },
+    {
+        "id": "67cde27ef2817495",
+        "type": "ui_spacer",
+        "z": "deec66c67992cc9f",
+        "name": "spacer",
+        "group": "b6e26ec72ea221d4",
+        "order": 5,
+        "width": 3,
+        "height": 1
+    },
+    {
+        "id": "e1d8ea2957933c3c",
+        "type": "ui_spacer",
+        "z": "deec66c67992cc9f",
+        "name": "spacer",
+        "group": "b6e26ec72ea221d4",
+        "order": 8,
+        "width": 3,
+        "height": 1
+    },
+    {
+        "id": "06a9a1326e0a9bdf",
+        "type": "ui_spacer",
+        "z": "deec66c67992cc9f",
+        "name": "spacer",
+        "group": "b6e26ec72ea221d4",
+        "order": 9,
+        "width": 3,
+        "height": 1
+    },
+    {
+        "id": "77edcfb088a1f3dc",
+        "type": "ui_spacer",
+        "z": "deec66c67992cc9f",
+        "name": "spacer",
+        "group": "b6e26ec72ea221d4",
+        "order": 12,
+        "width": 3,
+        "height": 1
+    },
+    {
+        "id": "cb87ea4d8b74333e",
+        "type": "ui_spacer",
+        "z": "deec66c67992cc9f",
+        "name": "spacer",
+        "group": "b6e26ec72ea221d4",
+        "order": 13,
+        "width": 4,
+        "height": 1
+    },
+    {
+        "id": "adb221d87439c78f",
+        "type": "ui_spacer",
+        "z": "deec66c67992cc9f",
+        "name": "spacer",
+        "group": "b6e26ec72ea221d4",
+        "order": 15,
+        "width": 4,
+        "height": 1
+    },
+    {
+        "id": "6653243fc1081bcc",
+        "type": "ui_tab",
+        "name": "MOLINO1",
+        "icon": "dashboard",
+        "order": 3,
+        "disabled": false,
+        "hidden": false
+    },
+    {
+        "id": "f76a693a9fac13b8",
+        "type": "ui_group",
+        "name": "CCM MOLIENDA SECUNDARIA",
+        "tab": "6653243fc1081bcc",
+        "order": 1,
+        "disp": true,
+        "width": 13,
+        "collapse": false,
+        "className": ""
+    },
+    {
+        "id": "38ed230cd1d68ad6",
+        "type": "ui_base",
+        "theme": {
+            "name": "theme-light",
+            "lightTheme": {
+                "default": "#0094CE",
+                "baseColor": "#0094CE",
+                "baseFont": "-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Oxygen-Sans,Ubuntu,Cantarell,Helvetica Neue,sans-serif",
+                "edited": true,
+                "reset": false
+            },
+            "darkTheme": {
+                "default": "#097479",
+                "baseColor": "#097479",
+                "baseFont": "-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Oxygen-Sans,Ubuntu,Cantarell,Helvetica Neue,sans-serif",
+                "edited": false
+            },
+            "customTheme": {
+                "name": "Untitled Theme 1",
+                "default": "#4B7930",
+                "baseColor": "#4B7930",
+                "baseFont": "-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Oxygen-Sans,Ubuntu,Cantarell,Helvetica Neue,sans-serif"
+            },
+            "themeState": {
+                "base-color": {
+                    "default": "#0094CE",
+                    "value": "#0094CE",
+                    "edited": false
+                },
+                "page-titlebar-backgroundColor": {
+                    "value": "#0094CE",
+                    "edited": false
+                },
+                "page-backgroundColor": {
+                    "value": "#fafafa",
+                    "edited": false
+                },
+                "page-sidebar-backgroundColor": {
+                    "value": "#ffffff",
+                    "edited": false
+                },
+                "group-textColor": {
+                    "value": "#1bbfff",
+                    "edited": false
+                },
+                "group-borderColor": {
+                    "value": "#ffffff",
+                    "edited": false
+                },
+                "group-backgroundColor": {
+                    "value": "#ffffff",
+                    "edited": false
+                },
+                "widget-textColor": {
+                    "value": "#111111",
+                    "edited": false
+                },
+                "widget-backgroundColor": {
+                    "value": "#0094ce",
+                    "edited": false
+                },
+                "widget-borderColor": {
+                    "value": "#ffffff",
+                    "edited": false
+                },
+                "base-font": {
+                    "value": "-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Oxygen-Sans,Ubuntu,Cantarell,Helvetica Neue,sans-serif"
+                }
+            },
+            "angularTheme": {
+                "primary": "indigo",
+                "accents": "blue",
+                "warn": "red",
+                "background": "grey",
+                "palette": "light"
+            }
+        },
+        "site": {
+            "name": "Node-RED Dashboard",
+            "hideToolbar": "false",
+            "allowSwipe": "false",
+            "lockMenu": "false",
+            "allowTempTheme": "true",
+            "dateFormat": "DD/MM/YYYY",
+            "sizes": {
+                "sx": 48,
+                "sy": 48,
+                "gx": 6,
+                "gy": 6,
+                "cx": 6,
+                "cy": 6,
+                "px": 0,
+                "py": 0
+            }
+        }
+    },
+    {
+        "id": "7fb5bd58bac7fc37",
+        "type": "ui_spacer",
+        "z": "8b1536fe0dca853c",
+        "name": "spacer",
+        "group": "f76a693a9fac13b8",
+        "order": 1,
+        "width": 4,
+        "height": 1
+    },
+    {
+        "id": "1dcbf0ff66483608",
+        "type": "ui_spacer",
+        "z": "8b1536fe0dca853c",
+        "name": "spacer",
+        "group": "f76a693a9fac13b8",
+        "order": 3,
+        "width": 4,
+        "height": 1
+    },
+    {
+        "id": "e8736c1eb3131cfe",
+        "type": "ui_spacer",
+        "z": "8b1536fe0dca853c",
+        "name": "spacer",
+        "group": "f76a693a9fac13b8",
+        "order": 4,
+        "width": 2,
+        "height": 1
+    },
+    {
+        "id": "eb3f8a93c0f84b1b",
+        "type": "ui_spacer",
+        "z": "8b1536fe0dca853c",
+        "name": "spacer",
+        "group": "f76a693a9fac13b8",
+        "order": 8,
+        "width": 2,
+        "height": 1
+    },
+    {
+        "id": "409e6653bdccbd64",
+        "type": "ui_spacer",
+        "z": "8b1536fe0dca853c",
+        "name": "spacer",
+        "group": "f76a693a9fac13b8",
+        "order": 9,
+        "width": 2,
+        "height": 1
+    },
+    {
+        "id": "df15b4889a065d66",
+        "type": "ui_spacer",
+        "z": "8b1536fe0dca853c",
+        "name": "spacer",
+        "group": "f76a693a9fac13b8",
+        "order": 13,
+        "width": 2,
+        "height": 1
+    },
+    {
+        "id": "6984a7a3d4f7d982",
+        "type": "ui_spacer",
+        "z": "8b1536fe0dca853c",
+        "name": "spacer",
+        "group": "f76a693a9fac13b8",
+        "order": 14,
+        "width": 2,
+        "height": 1
+    },
+    {
+        "id": "c741a7fba66a7e95",
+        "type": "ui_spacer",
+        "z": "8b1536fe0dca853c",
+        "name": "spacer",
+        "group": "f76a693a9fac13b8",
+        "order": 18,
+        "width": 2,
+        "height": 1
+    },
+    {
+        "id": "a413623631c14c9c",
+        "type": "ui_spacer",
+        "z": "8b1536fe0dca853c",
+        "name": "spacer",
+        "group": "f76a693a9fac13b8",
+        "order": 19,
+        "width": 13,
+        "height": 1
+    },
+    {
+        "id": "89919162accb9eed",
+        "type": "ui_spacer",
+        "z": "8b1536fe0dca853c",
+        "name": "spacer",
+        "group": "f76a693a9fac13b8",
+        "order": 20,
+        "width": 2,
+        "height": 1
+    },
+    {
+        "id": "4ffec46f0e915260",
+        "type": "ui_spacer",
+        "z": "8b1536fe0dca853c",
+        "name": "spacer",
+        "group": "f76a693a9fac13b8",
+        "order": 26,
+        "width": 2,
+        "height": 1
+    },
+    {
+        "id": "3304b9bc32cc31e7",
+        "type": "ui_spacer",
+        "z": "8b1536fe0dca853c",
+        "name": "spacer",
+        "group": "5797582a27633caf",
+        "order": 1,
+        "width": 3,
+        "height": 1
+    },
+    {
+        "id": "db962aa25b05a46f",
+        "type": "ui_spacer",
+        "z": "8b1536fe0dca853c",
+        "name": "spacer",
+        "group": "5797582a27633caf",
+        "order": 3,
+        "width": 3,
+        "height": 1
+    },
+    {
+        "id": "a3112360e8b693e5",
+        "type": "ui_spacer",
+        "z": "8b1536fe0dca853c",
+        "name": "spacer",
+        "group": "5797582a27633caf",
+        "order": 4,
+        "width": 2,
+        "height": 1
+    },
+    {
+        "id": "1c9d3e1ba011944f",
+        "type": "ui_spacer",
+        "z": "8b1536fe0dca853c",
+        "name": "spacer",
+        "group": "5797582a27633caf",
+        "order": 7,
+        "width": 2,
+        "height": 1
+    },
+    {
+        "id": "51eb0e6dc124b897",
+        "type": "ui_spacer",
+        "z": "8b1536fe0dca853c",
+        "name": "spacer",
+        "group": "5797582a27633caf",
+        "order": 8,
+        "width": 2,
+        "height": 1
+    },
+    {
+        "id": "e7bf24b6bf3948ba",
+        "type": "ui_spacer",
+        "z": "8b1536fe0dca853c",
+        "name": "spacer",
+        "group": "5797582a27633caf",
+        "order": 11,
+        "width": 2,
+        "height": 1
+    },
+    {
+        "id": "90ee42344befafdf",
+        "type": "ui_spacer",
+        "z": "8b1536fe0dca853c",
+        "name": "spacer",
+        "group": "5797582a27633caf",
+        "order": 12,
+        "width": 1,
+        "height": 1
+    },
+    {
+        "id": "20db622da7a08398",
+        "type": "ui_spacer",
+        "z": "8b1536fe0dca853c",
+        "name": "spacer",
+        "group": "5797582a27633caf",
+        "order": 18,
+        "width": 1,
+        "height": 1
+    },
+    {
+        "id": "cc72a586176747d4",
+        "type": "ui_tab",
+        "name": "PANTALLA 1",
+        "icon": "dashboard",
+        "order": 4,
+        "disabled": false,
+        "hidden": false
+    },
+    {
+        "id": "e8f405e018325054",
+        "type": "ui_tab",
+        "name": "PANTALLA 2",
+        "icon": "dashboard",
+        "order": 5,
+        "disabled": false,
+        "hidden": false
+    },
+    {
+        "id": "73fc16fa3ec3b314",
+        "type": "ui_group",
+        "name": "",
+        "tab": "cc72a586176747d4",
+        "order": 1,
+        "disp": true,
+        "width": 5,
+        "collapse": true,
+        "className": ""
+    },
+    {
+        "id": "dd750367d90d02e9",
+        "type": "ui_group",
+        "name": "CCM MOLIENDA SECUNDARIA",
+        "tab": "e8f405e018325054",
+        "order": 1,
+        "disp": true,
+        "width": "6",
+        "collapse": false,
+        "className": ""
+    },
+    {
+        "id": "cfc7117b2d0077be",
+        "type": "ui_group",
+        "name": "Group 2",
+        "tab": "e8f405e018325054",
+        "order": 2,
+        "disp": true,
+        "width": "6",
+        "collapse": false,
+        "className": ""
+    },
+    {
+        "id": "5ca9ab22dbfcc613",
+        "type": "ui_button",
+        "z": "aca571a832025b5e",
+        "name": "",
+        "group": "b6e26ec72ea221d4",
+        "order": 2,
+        "width": 3,
+        "height": 1,
+        "passthru": false,
+        "label": "DOSIFICACIÓN",
+        "tooltip": "",
+        "color": "",
+        "bgcolor": "",
+        "className": "",
+        "icon": "",
+        "payload": "",
+        "payloadType": "date",
+        "topic": "topic",
+        "topicType": "msg",
+        "x": 140,
+        "y": 160,
+        "wires": [
+            [
+                "d9698222c3b0685f"
+            ]
+        ]
+    },
+    {
+        "id": "a2d4c37f376c9110",
+        "type": "comment",
+        "z": "aca571a832025b5e",
+        "name": "CCM MOLIENDA SECUNDARIA",
+        "info": "",
+        "x": 230,
+        "y": 40,
+        "wires": []
+    },
+    {
+        "id": "272f8a35dab7a22a",
+        "type": "ui_button",
+        "z": "aca571a832025b5e",
+        "name": "",
+        "group": "b6e26ec72ea221d4",
+        "order": 6,
+        "width": 3,
+        "height": 1,
+        "passthru": false,
+        "label": "FUNDICIÓN",
+        "tooltip": "",
+        "color": "",
+        "bgcolor": "",
+        "className": "",
+        "icon": "",
+        "payload": "",
+        "payloadType": "date",
+        "topic": "topic",
+        "topicType": "msg",
+        "x": 150,
+        "y": 220,
+        "wires": [
+            [
+                "d9698222c3b0685f"
+            ]
+        ]
+    },
+    {
+        "id": "cb036726a900bdcc",
+        "type": "ui_button",
+        "z": "aca571a832025b5e",
+        "name": "",
+        "group": "b6e26ec72ea221d4",
+        "order": 10,
+        "width": 3,
+        "height": 1,
+        "passthru": false,
+        "label": "HIDROCICLON",
+        "tooltip": "",
+        "color": "",
+        "bgcolor": "",
+        "className": "",
+        "icon": "",
+        "payload": "",
+        "payloadType": "date",
+        "topic": "topic",
+        "topicType": "msg",
+        "x": 140,
+        "y": 280,
+        "wires": [
+            [
+                "d9698222c3b0685f"
+            ]
+        ]
+    },
+    {
+        "id": "c0f1919631a54569",
+        "type": "ui_button",
+        "z": "aca571a832025b5e",
+        "name": "",
+        "group": "b6e26ec72ea221d4",
+        "order": 3,
+        "width": 3,
+        "height": 1,
+        "passthru": false,
+        "label": "MOLIENDA",
+        "tooltip": "",
+        "color": "",
+        "bgcolor": "",
+        "className": "",
+        "icon": "",
+        "payload": "1",
+        "payloadType": "str",
+        "topic": "topic",
+        "topicType": "msg",
+        "x": 390,
+        "y": 160,
+        "wires": [
+            [
+                "d9698222c3b0685f"
+            ]
+        ]
+    },
+    {
+        "id": "4fe2035f82bb1b2e",
+        "type": "ui_button",
+        "z": "aca571a832025b5e",
+        "name": "",
+        "group": "b6e26ec72ea221d4",
+        "order": 7,
+        "width": 3,
+        "height": 1,
+        "passthru": false,
+        "label": "ELUCIÓN",
+        "tooltip": "",
+        "color": "",
+        "bgcolor": "",
+        "className": "",
+        "icon": "",
+        "payload": "",
+        "payloadType": "str",
+        "topic": "topic",
+        "topicType": "msg",
+        "x": 400,
+        "y": 220,
+        "wires": [
+            [
+                "d9698222c3b0685f"
+            ]
+        ]
+    },
+    {
+        "id": "8bd93a1a41c63350",
+        "type": "ui_button",
+        "z": "aca571a832025b5e",
+        "name": "",
+        "group": "b6e26ec72ea221d4",
+        "order": 11,
+        "width": 3,
+        "height": 1,
+        "passthru": false,
+        "label": "CIANURACIÓN",
+        "tooltip": "",
+        "color": "",
+        "bgcolor": "",
+        "className": "",
+        "icon": "",
+        "payload": "",
+        "payloadType": "date",
+        "topic": "topic",
+        "topicType": "msg",
+        "x": 380,
+        "y": 280,
+        "wires": [
+            [
+                "d9698222c3b0685f"
+            ]
+        ]
+    },
+    {
+        "id": "efba65996c016e98",
+        "type": "ui_button",
+        "z": "aca571a832025b5e",
+        "name": "",
+        "group": "b6e26ec72ea221d4",
+        "order": 14,
+        "width": 4,
+        "height": 1,
+        "passthru": false,
+        "label": "PANTALLA PRINCIPAL",
+        "tooltip": "",
+        "color": "",
+        "bgcolor": "",
+        "className": "",
+        "icon": "fa-home",
+        "payload": "0",
+        "payloadType": "str",
+        "topic": "topic",
+        "topicType": "msg",
+        "x": 250,
+        "y": 340,
+        "wires": [
+            [
+                "d9698222c3b0685f"
+            ]
+        ]
+    },
+    {
+        "id": "d9698222c3b0685f",
+        "type": "ui_ui_control",
+        "z": "aca571a832025b5e",
+        "name": "",
+        "events": "all",
+        "x": 260,
+        "y": 420,
+        "wires": [
+            [
+                "cd8933448189dd23"
+            ]
+        ]
+    },
+    {
+        "id": "cd8933448189dd23",
+        "type": "debug",
+        "z": "aca571a832025b5e",
+        "name": "",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "false",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 430,
+        "y": 420,
+        "wires": []
+    },
+    {
+        "id": "fc878622b6fa3f79",
+        "type": "ui_button",
+        "z": "deec66c67992cc9f",
+        "name": "",
+        "group": "5797582a27633caf",
+        "order": 5,
+        "width": 4,
+        "height": 1,
+        "passthru": false,
+        "label": "MOLINO 1",
+        "tooltip": "",
+        "color": "",
+        "bgcolor": "",
+        "className": "",
+        "icon": "",
+        "payload": "2",
+        "payloadType": "str",
+        "topic": "topic",
+        "topicType": "msg",
+        "x": 130,
+        "y": 100,
+        "wires": [
+            [
+                "441b7ef798909cbf"
+            ]
+        ]
+    },
+    {
+        "id": "836c5c62c1e570fd",
+        "type": "ui_button",
+        "z": "deec66c67992cc9f",
+        "name": "",
+        "group": "5797582a27633caf",
+        "order": 6,
+        "width": 4,
+        "height": 1,
+        "passthru": false,
+        "label": "MOLINO 2",
+        "tooltip": "",
+        "color": "",
+        "bgcolor": "",
+        "className": "",
+        "icon": "",
+        "payload": "",
+        "payloadType": "date",
+        "topic": "topic",
+        "topicType": "msg",
+        "x": 110,
+        "y": 140,
+        "wires": [
+            [
+                "441b7ef798909cbf"
+            ]
+        ]
+    },
+    {
+        "id": "4844a7121f62999f",
+        "type": "ui_button",
+        "z": "deec66c67992cc9f",
+        "name": "",
+        "group": "5797582a27633caf",
+        "order": 9,
+        "width": 4,
+        "height": 1,
+        "passthru": false,
+        "label": "MOLINO 3",
+        "tooltip": "",
+        "color": "",
+        "bgcolor": "",
+        "className": "",
+        "icon": "",
+        "payload": "",
+        "payloadType": "date",
+        "topic": "topic",
+        "topicType": "msg",
+        "x": 90,
+        "y": 180,
+        "wires": [
+            [
+                "441b7ef798909cbf"
+            ]
+        ]
+    },
+    {
+        "id": "17cfb7c277747494",
+        "type": "ui_button",
+        "z": "deec66c67992cc9f",
+        "name": "",
+        "group": "5797582a27633caf",
+        "order": 10,
+        "width": 4,
+        "height": 1,
+        "passthru": false,
+        "label": "MOLINO 4",
+        "tooltip": "",
+        "color": "",
+        "bgcolor": "",
+        "className": "",
+        "icon": "",
+        "payload": "",
+        "payloadType": "date",
+        "topic": "topic",
+        "topicType": "msg",
+        "x": 70,
+        "y": 220,
+        "wires": [
+            [
+                "441b7ef798909cbf"
+            ]
+        ]
+    },
+    {
+        "id": "0e7f13d47f339ba4",
+        "type": "debug",
+        "z": "deec66c67992cc9f",
+        "name": "",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "false",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 590,
+        "y": 240,
+        "wires": []
+    },
+    {
+        "id": "441b7ef798909cbf",
+        "type": "ui_ui_control",
+        "z": "deec66c67992cc9f",
+        "name": "",
+        "events": "all",
+        "x": 460,
+        "y": 100,
+        "wires": [
+            [
+                "0e7f13d47f339ba4"
+            ]
+        ]
+    },
+    {
+        "id": "a8b8fa0b01e17ff3",
+        "type": "ui_button",
+        "z": "deec66c67992cc9f",
+        "name": "",
+        "group": "5797582a27633caf",
+        "order": 14,
+        "width": 2,
+        "height": 1,
+        "passthru": false,
+        "label": "MOLINO 1",
+        "tooltip": "",
+        "color": "YELLOW",
+        "bgcolor": "WHITE",
+        "className": "",
+        "icon": "",
+        "payload": "1",
+        "payloadType": "str",
+        "topic": "topic",
+        "topicType": "msg",
+        "x": 270,
+        "y": 360,
+        "wires": [
+            [
+                "441b7ef798909cbf"
+            ]
+        ]
+    },
+    {
+        "id": "2f31ee998b278b8b",
+        "type": "ui_button",
+        "z": "deec66c67992cc9f",
+        "name": "",
+        "group": "5797582a27633caf",
+        "order": 16,
+        "width": 2,
+        "height": 1,
+        "passthru": false,
+        "label": "MOLINO 3",
+        "tooltip": "",
+        "color": "",
+        "bgcolor": "",
+        "className": "",
+        "icon": "",
+        "payload": "",
+        "payloadType": "date",
+        "topic": "topic",
+        "topicType": "msg",
+        "x": 490,
+        "y": 360,
+        "wires": [
+            [
+                "441b7ef798909cbf"
+            ]
+        ]
+    },
+    {
+        "id": "710fdd600ec7fce7",
+        "type": "ui_button",
+        "z": "deec66c67992cc9f",
+        "name": "",
+        "group": "5797582a27633caf",
+        "order": 15,
+        "width": 2,
+        "height": 1,
+        "passthru": false,
+        "label": "MOLINO 2",
+        "tooltip": "",
+        "color": "",
+        "bgcolor": "",
+        "className": "",
+        "icon": "",
+        "payload": "",
+        "payloadType": "date",
+        "topic": "topic",
+        "topicType": "msg",
+        "x": 130,
+        "y": 400,
+        "wires": [
+            [
+                "441b7ef798909cbf"
+            ]
+        ]
+    },
+    {
+        "id": "98d2d0507d324330",
+        "type": "ui_button",
+        "z": "deec66c67992cc9f",
+        "name": "",
+        "group": "5797582a27633caf",
+        "order": 17,
+        "width": 2,
+        "height": 1,
+        "passthru": false,
+        "label": "MOLINO 4",
+        "tooltip": "",
+        "color": "",
+        "bgcolor": "",
+        "className": "",
+        "icon": "",
+        "payload": "",
+        "payloadType": "date",
+        "topic": "topic",
+        "topicType": "msg",
+        "x": 490,
+        "y": 420,
+        "wires": [
+            [
+                "441b7ef798909cbf"
+            ]
+        ]
+    },
+    {
+        "id": "2a9774f8603fd72c",
+        "type": "ui_button",
+        "z": "deec66c67992cc9f",
+        "name": "",
+        "group": "5797582a27633caf",
+        "order": 13,
+        "width": 2,
+        "height": 1,
+        "passthru": false,
+        "label": "",
+        "tooltip": "",
+        "color": "",
+        "bgcolor": "",
+        "className": "",
+        "icon": "fa-home",
+        "payload": "0",
+        "payloadType": "str",
+        "topic": "topic",
+        "topicType": "msg",
+        "x": 110,
+        "y": 340,
+        "wires": [
+            [
+                "441b7ef798909cbf"
+            ]
+        ]
+    },
+    {
+        "id": "493892e66052482f",
+        "type": "ui_button",
+        "z": "deec66c67992cc9f",
+        "name": "",
+        "group": "5797582a27633caf",
+        "order": 2,
+        "width": 6,
+        "height": 1,
+        "passthru": false,
+        "label": "MOLIENDA",
+        "tooltip": "",
+        "color": "YELLOW",
+        "bgcolor": "WHITE",
+        "className": "",
+        "icon": "",
+        "payload": "",
+        "payloadType": "date",
+        "topic": "topic",
+        "topicType": "msg",
+        "x": 130,
+        "y": 20,
+        "wires": [
+            [
+                "441b7ef798909cbf"
+            ]
+        ]
+    },
+    {
+        "id": "296a9a233e3d7a9f",
+        "type": "ui_button",
+        "z": "8b1536fe0dca853c",
+        "name": "",
+        "group": "f76a693a9fac13b8",
+        "order": 5,
+        "width": 3,
+        "height": 1,
+        "passthru": false,
+        "label": "MOTOR 1/ 200HP",
+        "tooltip": "",
+        "color": "",
+        "bgcolor": "",
+        "className": "",
+        "icon": "",
+        "payload": "3",
+        "payloadType": "str",
+        "topic": "topic",
+        "topicType": "msg",
+        "x": 150,
+        "y": 300,
+        "wires": [
+            [
+                "359e140bf1d93a08"
+            ]
+        ]
+    },
+    {
+        "id": "e86f0bdee851da34",
+        "type": "ui_button",
+        "z": "8b1536fe0dca853c",
+        "name": "",
+        "group": "f76a693a9fac13b8",
+        "order": 2,
+        "width": 5,
+        "height": 1,
+        "passthru": false,
+        "label": "MOLINO 1",
+        "tooltip": "",
+        "color": "yellow",
+        "bgcolor": "WHITE",
+        "className": "",
+        "icon": "",
+        "payload": "",
+        "payloadType": "date",
+        "topic": "topic",
+        "topicType": "msg",
+        "x": 150,
+        "y": 120,
+        "wires": [
+            [
+                "296a9a233e3d7a9f",
+                "051a649c6979013e",
+                "456d647f1ba77627",
+                "f57d8200670bc133",
+                "e68d615fc72b0f9c",
+                "ddb62262448c6a9a",
+                "80d37486af1925e1",
+                "1381b4b8562b3d88",
+                "49adc7b7d4df4fa5"
+            ]
+        ]
+    },
+    {
+        "id": "051a649c6979013e",
+        "type": "ui_button",
+        "z": "8b1536fe0dca853c",
+        "name": "",
+        "group": "f76a693a9fac13b8",
+        "order": 6,
+        "width": 3,
+        "height": 1,
+        "passthru": false,
+        "label": "BOMBA DE LODO 1",
+        "tooltip": "",
+        "color": "",
+        "bgcolor": "",
+        "className": "",
+        "icon": "",
+        "payload": "",
+        "payloadType": "date",
+        "topic": "topic",
+        "topicType": "msg",
+        "x": 460,
+        "y": 240,
+        "wires": [
+            [
+                "359e140bf1d93a08"
+            ]
+        ]
+    },
+    {
+        "id": "f57d8200670bc133",
+        "type": "ui_button",
+        "z": "8b1536fe0dca853c",
+        "name": "",
+        "group": "f76a693a9fac13b8",
+        "order": 10,
+        "width": 3,
+        "height": 1,
+        "passthru": false,
+        "label": "SUMIDERO",
+        "tooltip": "",
+        "color": "",
+        "bgcolor": "",
+        "className": "",
+        "icon": "",
+        "payload": "",
+        "payloadType": "date",
+        "topic": "topic",
+        "topicType": "msg",
+        "x": 150,
+        "y": 380,
+        "wires": [
+            [
+                "359e140bf1d93a08"
+            ]
+        ]
+    },
+    {
+        "id": "e68d615fc72b0f9c",
+        "type": "ui_button",
+        "z": "8b1536fe0dca853c",
+        "name": "",
+        "group": "f76a693a9fac13b8",
+        "order": 11,
+        "width": 3,
+        "height": 1,
+        "passthru": false,
+        "label": "CAL",
+        "tooltip": "",
+        "color": "",
+        "bgcolor": "",
+        "className": "",
+        "icon": "",
+        "payload": "",
+        "payloadType": "date",
+        "topic": "topic",
+        "topicType": "msg",
+        "x": 410,
+        "y": 360,
+        "wires": [
+            [
+                "359e140bf1d93a08"
+            ]
+        ]
+    },
+    {
+        "id": "80d37486af1925e1",
+        "type": "ui_button",
+        "z": "8b1536fe0dca853c",
+        "name": "",
+        "group": "f76a693a9fac13b8",
+        "order": 15,
+        "width": 3,
+        "height": 1,
+        "passthru": false,
+        "label": "AGUA",
+        "tooltip": "",
+        "color": "",
+        "bgcolor": "",
+        "className": "",
+        "icon": "",
+        "payload": "",
+        "payloadType": "date",
+        "topic": "topic",
+        "topicType": "msg",
+        "x": 150,
+        "y": 460,
+        "wires": [
+            [
+                "359e140bf1d93a08"
+            ]
+        ]
+    },
+    {
+        "id": "1381b4b8562b3d88",
+        "type": "ui_button",
+        "z": "8b1536fe0dca853c",
+        "name": "",
+        "group": "f76a693a9fac13b8",
+        "order": 16,
+        "width": 3,
+        "height": 1,
+        "passthru": false,
+        "label": "REPORTES",
+        "tooltip": "",
+        "color": "",
+        "bgcolor": "",
+        "className": "",
+        "icon": "",
+        "payload": "",
+        "payloadType": "date",
+        "topic": "topic",
+        "topicType": "msg",
+        "x": 390,
+        "y": 420,
+        "wires": [
+            [
+                "359e140bf1d93a08"
+            ]
+        ]
+    },
+    {
+        "id": "49adc7b7d4df4fa5",
+        "type": "ui_button",
+        "z": "8b1536fe0dca853c",
+        "name": "",
+        "group": "f76a693a9fac13b8",
+        "order": 17,
+        "width": 3,
+        "height": 1,
+        "passthru": false,
+        "label": "LAYOUT",
+        "tooltip": "",
+        "color": "",
+        "bgcolor": "",
+        "className": "",
+        "icon": "",
+        "payload": "",
+        "payloadType": "date",
+        "topic": "topic",
+        "topicType": "msg",
+        "x": 400,
+        "y": 480,
+        "wires": [
+            [
+                "359e140bf1d93a08"
+            ]
+        ]
+    },
+    {
+        "id": "ddb62262448c6a9a",
+        "type": "ui_button",
+        "z": "8b1536fe0dca853c",
+        "name": "",
+        "group": "f76a693a9fac13b8",
+        "order": 12,
+        "width": 3,
+        "height": 1,
+        "passthru": false,
+        "label": "CIANURO",
+        "tooltip": "",
+        "color": "",
+        "bgcolor": "",
+        "className": "",
+        "icon": "",
+        "payload": "",
+        "payloadType": "date",
+        "topic": "topic",
+        "topicType": "msg",
+        "x": 450,
+        "y": 300,
+        "wires": [
+            [
+                "359e140bf1d93a08"
+            ]
+        ]
+    },
+    {
+        "id": "456d647f1ba77627",
+        "type": "ui_button",
+        "z": "8b1536fe0dca853c",
+        "name": "",
+        "group": "f76a693a9fac13b8",
+        "order": 7,
+        "width": 3,
+        "height": 1,
+        "passthru": false,
+        "label": "CORREA TRANSPORTADORA 1",
+        "tooltip": "",
+        "color": "",
+        "bgcolor": "",
+        "className": "",
+        "icon": "",
+        "payload": "",
+        "payloadType": "date",
+        "topic": "topic",
+        "topicType": "msg",
+        "x": 560,
+        "y": 180,
+        "wires": [
+            [
+                "359e140bf1d93a08"
+            ]
+        ]
+    },
+    {
+        "id": "aceb32c7590df103",
+        "type": "debug",
+        "z": "8b1536fe0dca853c",
+        "name": "",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "false",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 590,
+        "y": 580,
+        "wires": []
+    },
+    {
+        "id": "359e140bf1d93a08",
+        "type": "ui_ui_control",
+        "z": "8b1536fe0dca853c",
+        "name": "",
+        "events": "all",
+        "x": 400,
+        "y": 620,
+        "wires": [
+            [
+                "aceb32c7590df103"
+            ]
+        ]
+    },
+    {
+        "id": "2c445ee62978a741",
+        "type": "ui_button",
+        "z": "8b1536fe0dca853c",
+        "name": "",
+        "group": "f76a693a9fac13b8",
+        "order": 21,
+        "width": 1,
+        "height": 1,
+        "passthru": false,
+        "label": "",
+        "tooltip": "",
+        "color": "",
+        "bgcolor": "",
+        "className": "",
+        "icon": "fa-home",
+        "payload": "0",
+        "payloadType": "str",
+        "topic": "topic",
+        "topicType": "msg",
+        "x": 130,
+        "y": 680,
+        "wires": [
+            [
+                "be27d47436b56231"
+            ]
+        ]
+    },
+    {
+        "id": "2006e2aa6c4dbbca",
+        "type": "ui_button",
+        "z": "8b1536fe0dca853c",
+        "name": "",
+        "group": "f76a693a9fac13b8",
+        "order": 24,
+        "width": 2,
+        "height": 1,
+        "passthru": false,
+        "label": "MOLINO 3",
+        "tooltip": "",
+        "color": "",
+        "bgcolor": "",
+        "className": "",
+        "icon": "",
+        "payload": "",
+        "payloadType": "date",
+        "topic": "topic",
+        "topicType": "msg",
+        "x": 350,
+        "y": 720,
+        "wires": [
+            [
+                "be27d47436b56231"
+            ]
+        ]
+    },
+    {
+        "id": "b24c55289799f256",
+        "type": "ui_button",
+        "z": "8b1536fe0dca853c",
+        "name": "",
+        "group": "f76a693a9fac13b8",
+        "order": 25,
+        "width": 2,
+        "height": 1,
+        "passthru": false,
+        "label": "MOLINO 4",
+        "tooltip": "",
+        "color": "",
+        "bgcolor": "",
+        "className": "",
+        "icon": "",
+        "payload": "",
+        "payloadType": "date",
+        "topic": "topic",
+        "topicType": "msg",
+        "x": 350,
+        "y": 780,
+        "wires": [
+            [
+                "be27d47436b56231"
+            ]
+        ]
+    },
+    {
+        "id": "90cd7f2b8ee7ee98",
+        "type": "ui_button",
+        "z": "8b1536fe0dca853c",
+        "name": "",
+        "group": "f76a693a9fac13b8",
+        "order": 22,
+        "width": 2,
+        "height": 1,
+        "passthru": false,
+        "label": "MOLINO 1",
+        "tooltip": "",
+        "color": "YELLOW",
+        "bgcolor": "WHITE",
+        "className": "",
+        "icon": "",
+        "payload": "1",
+        "payloadType": "str",
+        "topic": "topic",
+        "topicType": "msg",
+        "x": 130,
+        "y": 780,
+        "wires": [
+            [
+                "be27d47436b56231"
+            ]
+        ]
+    },
+    {
+        "id": "af102d94b3aaf2d3",
+        "type": "ui_button",
+        "z": "8b1536fe0dca853c",
+        "name": "",
+        "group": "f76a693a9fac13b8",
+        "order": 23,
+        "width": 2,
+        "height": 1,
+        "passthru": false,
+        "label": "MOLINO 2",
+        "tooltip": "",
+        "color": "",
+        "bgcolor": "",
+        "className": "",
+        "icon": "",
+        "payload": "",
+        "payloadType": "date",
+        "topic": "topic",
+        "topicType": "msg",
+        "x": 130,
+        "y": 840,
+        "wires": [
+            [
+                "be27d47436b56231"
+            ]
+        ]
+    },
+    {
+        "id": "be27d47436b56231",
+        "type": "ui_ui_control",
+        "z": "8b1536fe0dca853c",
+        "name": "",
+        "events": "all",
+        "x": 320,
+        "y": 880,
+        "wires": [
+            [
+                "f1b305359efbf2bc"
+            ]
+        ]
+    },
+    {
+        "id": "f1b305359efbf2bc",
+        "type": "debug",
+        "z": "8b1536fe0dca853c",
+        "name": "",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "false",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 530,
+        "y": 860,
+        "wires": []
+    },
+    {
+        "id": "9bfd787c11c14412",
+        "type": "ui_button",
+        "z": "7f5ed74f23e8b6d7",
+        "name": "",
+        "group": "73fc16fa3ec3b314",
+        "order": 1,
+        "width": 5,
+        "height": 1,
+        "passthru": false,
+        "label": "MOTOR 1/200HP",
+        "tooltip": "",
+        "color": "",
+        "bgcolor": "",
+        "className": "",
+        "icon": "fa-table",
+        "payload": "",
+        "payloadType": "date",
+        "topic": "topic",
+        "topicType": "msg",
+        "x": 390,
+        "y": 40,
+        "wires": [
+            [
+                "a8ad05a820a9c527"
+            ]
+        ]
+    },
+    {
+        "id": "9992256608c3a8d2",
+        "type": "ui_button",
+        "z": "7f5ed74f23e8b6d7",
+        "name": "",
+        "group": "73fc16fa3ec3b314",
+        "order": 2,
+        "width": 5,
+        "height": 1,
+        "passthru": false,
+        "label": "BOMBA DE LODO 1",
+        "tooltip": "",
+        "color": "",
+        "bgcolor": "",
+        "className": "",
+        "icon": "fa-th",
+        "payload": "",
+        "payloadType": "date",
+        "topic": "topic",
+        "topicType": "msg",
+        "x": 380,
+        "y": 80,
+        "wires": [
+            [
+                "a8ad05a820a9c527"
+            ]
+        ]
+    },
+    {
+        "id": "7496ab73added7d8",
+        "type": "ui_button",
+        "z": "7f5ed74f23e8b6d7",
+        "name": "",
+        "group": "73fc16fa3ec3b314",
+        "order": 3,
+        "width": 5,
+        "height": 1,
+        "passthru": false,
+        "label": "CORREA TRANSPORTADORA 1",
+        "tooltip": "",
+        "color": "",
+        "bgcolor": "",
+        "className": "",
+        "icon": "fa-random",
+        "payload": "",
+        "payloadType": "date",
+        "topic": "topic",
+        "topicType": "msg",
+        "x": 340,
+        "y": 120,
+        "wires": [
+            [
+                "a8ad05a820a9c527"
+            ]
+        ]
+    },
+    {
+        "id": "92597c963c21f114",
+        "type": "ui_button",
+        "z": "7f5ed74f23e8b6d7",
+        "name": "",
+        "group": "73fc16fa3ec3b314",
+        "order": 6,
+        "width": 0,
+        "height": 0,
+        "passthru": false,
+        "label": "SENSORES/SUMIDERO",
+        "tooltip": "",
+        "color": "",
+        "bgcolor": "",
+        "className": "",
+        "icon": "fa-battery-three-quarters",
+        "payload": "",
+        "payloadType": "date",
+        "topic": "topic",
+        "topicType": "msg",
+        "x": 370,
+        "y": 160,
+        "wires": [
+            [
+                "a8ad05a820a9c527"
+            ]
+        ]
+    },
+    {
+        "id": "0bc3cb074337b22d",
+        "type": "ui_button",
+        "z": "7f5ed74f23e8b6d7",
+        "name": "",
+        "group": "73fc16fa3ec3b314",
+        "order": 4,
+        "width": 0,
+        "height": 0,
+        "passthru": false,
+        "label": "SENSORES/CAL",
+        "tooltip": "",
+        "color": "",
+        "bgcolor": "",
+        "className": "",
+        "icon": "fa-battery-three-quarters",
+        "payload": "",
+        "payloadType": "date",
+        "topic": "topic",
+        "topicType": "msg",
+        "x": 390,
+        "y": 200,
+        "wires": [
+            [
+                "a8ad05a820a9c527"
+            ]
+        ]
+    },
+    {
+        "id": "975ba44d37b1e2bf",
+        "type": "ui_button",
+        "z": "7f5ed74f23e8b6d7",
+        "name": "",
+        "group": "73fc16fa3ec3b314",
+        "order": 7,
+        "width": 0,
+        "height": 0,
+        "passthru": false,
+        "label": "SENSORES/CIANURO",
+        "tooltip": "",
+        "color": "",
+        "bgcolor": "",
+        "className": "",
+        "icon": "fa-battery-three-quarters",
+        "payload": "",
+        "payloadType": "date",
+        "topic": "topic",
+        "topicType": "msg",
+        "x": 370,
+        "y": 240,
+        "wires": [
+            [
+                "a8ad05a820a9c527"
+            ]
+        ]
+    },
+    {
+        "id": "73cb9df77f6a7cd6",
+        "type": "ui_button",
+        "z": "7f5ed74f23e8b6d7",
+        "name": "",
+        "group": "73fc16fa3ec3b314",
+        "order": 5,
+        "width": 0,
+        "height": 0,
+        "passthru": false,
+        "label": "SENSORES/AGUA",
+        "tooltip": "",
+        "color": "",
+        "bgcolor": "",
+        "className": "",
+        "icon": "fa-battery-three-quarters",
+        "payload": "",
+        "payloadType": "date",
+        "topic": "topic",
+        "topicType": "msg",
+        "x": 390,
+        "y": 280,
+        "wires": [
+            [
+                "a8ad05a820a9c527"
+            ]
+        ]
+    },
+    {
+        "id": "6feed35c39a82d06",
+        "type": "ui_button",
+        "z": "7f5ed74f23e8b6d7",
+        "name": "",
+        "group": "73fc16fa3ec3b314",
+        "order": 8,
+        "width": 0,
+        "height": 0,
+        "passthru": false,
+        "label": "REPORTES",
+        "tooltip": "",
+        "color": "",
+        "bgcolor": "",
+        "className": "",
+        "icon": "fa-file-text",
+        "payload": "",
+        "payloadType": "date",
+        "topic": "topic",
+        "topicType": "msg",
+        "x": 410,
+        "y": 320,
+        "wires": [
+            [
+                "a8ad05a820a9c527"
+            ]
+        ]
+    },
+    {
+        "id": "c196ee869241af4c",
+        "type": "ui_button",
+        "z": "7f5ed74f23e8b6d7",
+        "name": "",
+        "group": "73fc16fa3ec3b314",
+        "order": 9,
+        "width": 0,
+        "height": 0,
+        "passthru": false,
+        "label": "LAYOUT",
+        "tooltip": "",
+        "color": "",
+        "bgcolor": "",
+        "className": "",
+        "icon": "fa-cog",
+        "payload": "",
+        "payloadType": "date",
+        "topic": "topic",
+        "topicType": "msg",
+        "x": 420,
+        "y": 360,
+        "wires": [
+            [
+                "a8ad05a820a9c527"
+            ]
+        ]
+    },
+    {
+        "id": "a8ad05a820a9c527",
+        "type": "debug",
+        "z": "7f5ed74f23e8b6d7",
+        "name": "",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "false",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 650,
+        "y": 180,
+        "wires": []
+    },
+    {
+        "id": "4997649179640493",
+        "type": "ui_button",
+        "z": "7f5ed74f23e8b6d7",
+        "name": "",
+        "group": "73fc16fa3ec3b314",
+        "order": 24,
+        "width": 2,
+        "height": 1,
+        "passthru": false,
+        "label": "MOLINO 3",
+        "tooltip": "",
+        "color": "",
+        "bgcolor": "",
+        "className": "",
+        "icon": "",
+        "payload": "",
+        "payloadType": "date",
+        "topic": "topic",
+        "topicType": "msg",
+        "x": 770,
+        "y": 400,
+        "wires": [
+            [
+                "cd48416e3d37abea"
+            ]
+        ]
+    },
+    {
+        "id": "890e6db619c6efd6",
+        "type": "ui_button",
+        "z": "7f5ed74f23e8b6d7",
+        "name": "",
+        "group": "cfc7117b2d0077be",
+        "order": 21,
+        "width": 1,
+        "height": 1,
+        "passthru": false,
+        "label": "",
+        "tooltip": "",
+        "color": "",
+        "bgcolor": "",
+        "className": "",
+        "icon": "fa-home",
+        "payload": "0",
+        "payloadType": "str",
+        "topic": "topic",
+        "topicType": "msg",
+        "x": 610,
+        "y": 340,
+        "wires": [
+            [
+                "cd48416e3d37abea"
+            ]
+        ]
+    },
+    {
+        "id": "edd8c30c8758e6ee",
+        "type": "ui_button",
+        "z": "7f5ed74f23e8b6d7",
+        "name": "",
+        "group": "cfc7117b2d0077be",
+        "order": 22,
+        "width": 2,
+        "height": 1,
+        "passthru": false,
+        "label": "MOLINO 1",
+        "tooltip": "",
+        "color": "YELLOW",
+        "bgcolor": "WHITE",
+        "className": "",
+        "icon": "",
+        "payload": "1",
+        "payloadType": "str",
+        "topic": "topic",
+        "topicType": "msg",
+        "x": 770,
+        "y": 340,
+        "wires": [
+            [
+                "cd48416e3d37abea"
+            ]
+        ]
+    },
+    {
+        "id": "eec423024fb10f4b",
+        "type": "ui_button",
+        "z": "7f5ed74f23e8b6d7",
+        "name": "",
+        "group": "73fc16fa3ec3b314",
+        "order": 23,
+        "width": 2,
+        "height": 1,
+        "passthru": false,
+        "label": "MOLINO 2",
+        "tooltip": "",
+        "color": "",
+        "bgcolor": "",
+        "className": "",
+        "icon": "",
+        "payload": "",
+        "payloadType": "date",
+        "topic": "topic",
+        "topicType": "msg",
+        "x": 970,
+        "y": 340,
+        "wires": [
+            [
+                "cd48416e3d37abea"
+            ]
+        ]
+    },
+    {
+        "id": "9b721e17e7a542f5",
+        "type": "ui_button",
+        "z": "7f5ed74f23e8b6d7",
+        "name": "",
+        "group": "73fc16fa3ec3b314",
+        "order": 25,
+        "width": 2,
+        "height": 1,
+        "passthru": false,
+        "label": "MOLINO 4",
+        "tooltip": "",
+        "color": "",
+        "bgcolor": "",
+        "className": "",
+        "icon": "",
+        "payload": "",
+        "payloadType": "date",
+        "topic": "topic",
+        "topicType": "msg",
+        "x": 970,
+        "y": 400,
+        "wires": [
+            [
+                "cd48416e3d37abea"
+            ]
+        ]
+    },
+    {
+        "id": "cd48416e3d37abea",
+        "type": "ui_ui_control",
+        "z": "7f5ed74f23e8b6d7",
+        "name": "",
+        "events": "all",
+        "x": 620,
+        "y": 460,
+        "wires": [
+            [
+                "d8e852df66adb5c0"
+            ]
+        ]
+    },
+    {
+        "id": "d8e852df66adb5c0",
+        "type": "debug",
+        "z": "7f5ed74f23e8b6d7",
+        "name": "",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "false",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 850,
+        "y": 460,
+        "wires": []
+    }
+]
